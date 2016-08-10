@@ -1,2 +1,2 @@
-# five-chess-online
-基于socket.io的网络版五子棋游戏
+# FIRGame
+网络五子棋对战小游戏
